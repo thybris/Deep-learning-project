@@ -1,0 +1,24 @@
+{
+  "name": "project-simon-thybris-deep-learning-project",
+  "version": "0.0.1",
+  "description": "Emotion recognition Class",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "keywords": [],
+  "author": "Simon Mestdagh, Thybris Vandenbroucke",
+  "license": "Creative Commons Attribution-ShareAlike 4.0 International License",
+  "devDependencies": {
+    "vuepress": "^0.14.11",
+    "vuepress-plugin-zooming": "^1.1.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thybris/Deep-learning-project"
+  },
+  "bugs": {
+    "url": "/issues"
+  },
+  "homepage": "#readme"
+}
