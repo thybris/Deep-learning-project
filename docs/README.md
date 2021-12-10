@@ -1,8 +1,8 @@
 ---
-title: mouth mask checker
+title: Emotion detection
 ---
 
-# AI Programming Rapport
+# Deep Learning Rapport
 
 <!-- Verander de bovenstaande titel naar de titel van je project -->
 
